@@ -7,6 +7,7 @@
 - [Data Anatomy](#data-anatomy)
 - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
 - [Pivot Tables](#pivot-tables)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 
@@ -75,10 +76,10 @@ This led me to drill down to the population, and I discovered that the Pacific r
 ![Income by region](https://github.com/TommyDatageek01/Bike-region-Analysis/assets/141424792/169de1e1-6498-496d-8e81-5556b7f8f1c2)
 
 ### Recommendations
-1. From the data analytics and the dashboard created, we can suggest that the company should focus on the following;
-2. Focus should be more on Urban areas of Europe, North America and the Pacific. This is because of the positive correlation between community distance and bike ownership. People commuting shorter distances are more likely to buy bikes. This would have more application in Urban areas with lots of traffic. This increased traffic has been found to affect urban dwellers. This explains the decrease in commute distance in Urban areas. With people seeking to commute for shorter distances, they certainly can expect bikes to have more applications to save time and cost. 
-3. Focus on maximizing the market share in the Pacific as more people marginally buy bikes than in Europe and America; from the data, about 58.91 percent of the population uses a bike, as against 41.09 percent that don't. This means an overwhelming percentage of the population uses bikes. The company should strongly consider expanding operations in the Pacific.
-4. The bike company should focus on the Pacific and Europe more for expansion. Although, as of 2022, Europe was leading in Bike Sales, there is a great resurgence of sales in North America coupled with the income; there could be a real chance that the market would open up WIth increased bike sales in North America. There is a plausible reason North American sales might outpace European sales. The company might position itself to cash in on the booming bike sales in North America, but it is worth noting that there might be stiff competition in all the regions, so more market research would have to be conducted to see how best to get  a sizable market share,
+From the data analytics and the dashboard created, we can suggest that the company should focus on the following;
+1. Focus should be more on Urban areas of Europe, North America and the Pacific. This is because of the positive correlation between community distance and bike ownership. People commuting shorter distances are more likely to buy bikes. This would have more application in Urban areas with lots of traffic. This increased traffic has been found to affect urban dwellers. This explains the decrease in commute distance in Urban areas. With people seeking to commute for shorter distances, they certainly can expect bikes to have more applications to save time and cost. 
+2.  Focus on maximizing the market share in the Pacific as more people marginally buy bikes than in Europe and America; from the data, about 58.91 percent of the population uses a bike, as against 41.09 percent that don't. This means an overwhelming percentage of the population uses bikes. The company should strongly consider expanding operations in the Pacific.
+3.  The bike company should focus on the Pacific and Europe more for expansion. Although, as of 2022, Europe was leading in Bike Sales, there is a great resurgence of sales in North America coupled with the income; there could be a real chance that the market would open up WIth increased bike sales in North America. There is a plausible reason North American sales might outpace European sales. The company might position itself to cash in on the booming bike sales in North America, but it is worth noting that there might be stiff competition in all the regions, so more market research would have to be conducted to see how best to get  a sizable market share,
 
 
 
