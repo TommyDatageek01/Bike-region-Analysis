@@ -14,6 +14,7 @@
 Bike market Data Analysis is my recent demo project completed using Microsoft Excel. The project was designed to test my skills in data analysis. The project was about using Data Analysis to predict regions where a company can expand their bike operations based on hypthotheical data available. The project is for a bike client who intends to spread sales in the three regions they operate in. The regions are North America, Europe and the Pacific. 
 
 ### Data source
+   - [Download here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ### Tools
 I only used Microsoft Excel
