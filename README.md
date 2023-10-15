@@ -11,23 +11,28 @@
 
 ### Project Overview
 
-Bike market Data Analysis is my recent demo project completed using Microsoft Excel. The project was designed to test my skills in data analysis. The project was about using Data Analysis to predict regions where a company can expand their bike operations based on hypthotheical data available. The project is for a bike client who intends to spread sales in the three regions they operate in. The regions are North America, Europe and the Pacific. 
+Bike market Data Analysis is one of my recent Data Analysis demo project completed using Microsoft Excel. The project was designed to test my skills in data analysis particularly my ability to make recommendations based on report generated from available data. The project involved using Data Analysis to predict regions where a company could expand their bike operations based on a available data. The bike company needed evidences that would support their expansion in the three regions they operate in. The regions are North America, Europe and the Pacific. 
 
 ### Data source
    - [Download here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ### Tools
-I only used Microsoft Excel
+Microsoft Excel
 
 ### Data Anatomy
 
-The data consisted of over 1000 rows of 14 columns, including a unique ID, income, gender, region, bike ownership (denoted by either yes or no) and many more.
+The data consisted of over an initial 1026 rows (Before to cleaned) and 14 columns. The columns included a unique ID, income, gender, region, bike ownership (denoted by either yes or no) and many more.
 
 ### Data Cleaning and Transformation
 
-The data was downloaded, and on careful observation of the dataset, it was discovered that the data was not clean, and as such, that data had to be cleaned. Data cleaning began with checking for duplicate values, of which some records of duplicate values were found, which were more than 20. The duplicate values were removed using the removing duplicate function on the data pane of Excel. After that, a filter option was applied to each column to check if the data values were accurately written out or if there were no outdated values. 
+The data was downloaded, and on careful observation of the dataset, it was discovered that the data was not clean, and as such, the data had to be cleaned. Data cleaning began with checking for duplicate values, of which some records of duplicate values were found, which were more than 20. The duplicate values were removed using the "remove duplicate" function on the data pane of Excel. After that, a filter option was applied to each column to check if the data values were accurately inputed. Also I had to check if there were no outdated values. 
+
 #### Observation: 
-It was discovered that there was inconsistency in the data. For example, the gender column had a mixture of "F," "M," "Male", and "Female." This had to be changed using the control + H button on the keyboard when the column was highlighted. The same was also applied to the Purchase bike column, which had a mixture of "Y," "N," "Yes," and "No ."The "F" and "M" were replaced with "Female" and "Male," respectively, while the "Y" and "N" were replaced with "Yes" and "No".
+
+It was discovered that there were inconsistency in the data. For example, the gender column had a mixture of "F," "M," "Male", and "Female." This had to be changed using the control + H button on the keyboard when the column was highlighted. The same was also applied to the Purchase bike column, which had a mixture of "Y," "N," "Yes," and "No ."The "F" and "M" were replaced with "Female" and "Male," respectively, while the "Y" and "N" were replaced with "Yes" and "No" respectively.
+
+## Data Transformation
+
 Finally, the age column was transformed into the age group column. This was done using the Excel formula "IF" statement. The "IF statement" was used to categorize the age group into adolescent (< 30), middle age (31-54) and old (55+)
 
 ### Pivot Tables
